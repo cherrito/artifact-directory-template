@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Controversy In Wikipedia Articles
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+There are “wars” going on every day online, but instead of cities, they are defending their options and perspects. This phenomenon is especially common on the Wikipedia platform where users are free to edit others' revisions. In fact, there are “about 12% of discussions are devoted to reverts and vandalism, suggesting that the WP development process is highly contentious.” (Robert 1) As Wikipedia has become a trusted source of information and knowledge which is freely accessible, It is important to investigate how editors collaborate and controvert each other in such a platform. This paper will discuss a new method of measuring controvisality in Wikipedia articles. We have found out that controversiality is highly related to the number of revert edits, the sentiment level among one article comments, and the view counts of that article. Thus we developed a weighted sum formula, which combines those three factors to accurately measure the controversy level within articles in Wikipedia. 
+
