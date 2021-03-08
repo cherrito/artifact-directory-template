@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/cherrito/artifact-directory-template",
+    "this-repository": "https://github.com/cherrito/artifact-directory-template.git",
     "project-repository": "https://github.com/zxchen98/DSC180B.git",
     "dockerhub-repository": "zxchen98/dsc180b:latest",
     "project-website-url": "https://zxchen98.github.io/Controversy_Visual_output/",
